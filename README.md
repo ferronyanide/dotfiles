@@ -1,4 +1,4 @@
-<h1 align="center">Ferro-san's Dotfiles</h1>
+<h1 align="center">Ferro's Dotfiles</h1>
 
 This repository contains my personal [dotfiles](https://wiki.archlinux.org/title/Dotfiles) for a few Linux programs.
 
