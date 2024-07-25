@@ -1,0 +1,8 @@
+#+OPTIONS: toc:nil num:nil
+
+* Ferro's Dotfiles
+
+This repository contains my personal [[https://wiki.archlinux.org/title/Dotfiles][dotfiles]] for a few Linux programs.
+
+Try cloning it with =git clone --depth 1 https://codeberg.org/ferronyanide/dotfiles.git=
+
